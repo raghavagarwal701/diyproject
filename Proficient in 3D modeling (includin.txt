@@ -1,0 +1,3 @@
+Proficient in 3D modeling (including a Ben 10 watch model in FreeCAD) and conducting simulations using MATLAB. youtube link :- https://www.youtube.com/watch?v=sEDUikr-pCQ&t=7s&ab_channel=RaghavAgarwal
+
+Designed and implemented an innovative automated room electric control system using Tinkercad and Arduino,featuring photoresistor, temperature sensor, and passive infrared sensor components for enhanced functionality youtube link :- https://www.youtube.com/watch?v=nmW2fUGyhWg&t=51s&ab_channel=RaghavAgarwal
